@@ -5,6 +5,8 @@ Felipe Vasconcelos Cardoso UC22101240
 
 OBS: acabei fazendo o trabalho por fora do repositório e quando me dei conta arrumar tudo por aqui seria um inferno
 
+OBS 2: Decidi incluir também uma run de exemplo dentro do pdf da documentação, páginas importantes a se considerar sendo o inicio do código, o final, e um momento onde as threads acabavam sincronizando as buscas de uma cidade específica em um curto periodo de tempo.
+
 Experimento
 Quatro versões do experimento devem ser criadas e executadas, tomando como base:
 
