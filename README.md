@@ -3,7 +3,7 @@ Trabalho de recuperação da aula de programação concorrente e distribuida
 
 Felipe Vasconcelos Cardoso UC22101240
 
-OBS: acabei fazendo otrabalho por fora do repositório e quando me dei conta arrumar tudo por aqui seria um inferno
+OBS: acabei fazendo o trabalho por fora do repositório e quando me dei conta arrumar tudo por aqui seria um inferno
 
 Experimento
 Quatro versões do experimento devem ser criadas e executadas, tomando como base:
