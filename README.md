@@ -1,16 +1,22 @@
 # RecuTrabalhoThreads
 Trabalho de recuperação da aula de programação concorrente e distribuida
+
 Felipe Vasconcelos Cardoso UC22101240
 
 OBS: acabei fazendo otrabalho por fora do repositório e quando me dei conta arrumar tudo por aqui seria um inferno
 
 Experimento
 Quatro versões do experimento devem ser criadas e executadas, tomando como base:
+
 ● Uma versão de referência, sem uso de threads (ou, mais precisamente, apenas com a thread principal
 da main);
+
 ● Uma versão com 3 threads, sendo cada uma responsável pela requisição de 9 capitais;
+
 ● Uma versão com 9 threads, sendo cada uma responsável pela requisição de 3 capitais;
+
 ● Uma versão com 27 threads, sendo cada uma responsável pela requisição de 1 capital.
+
 Cada versão do experimento deve consistir na execução de 10 repetições/rodadas de um algoritmo composto
 por:
 1. 27 requisições HTTP (uma requisição por capital);
